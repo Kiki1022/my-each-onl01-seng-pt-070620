@@ -1,6 +1,7 @@
 def my_each(array)
   
-  while each.do 
+  each do |words|
+    puts word
 
   end
 
