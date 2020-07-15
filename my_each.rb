@@ -1,7 +1,7 @@
 def my_each(array)
   
-  each do |words|
-     word
+  while
+     
 
   end
 
